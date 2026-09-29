@@ -1,0 +1,9 @@
+{
+  "name": "music-lab-escape",
+  "version": "1.0.0",
+  "private": true,
+  "description": "6학년 음악 3단원 복습 방탈출 — GitHub Pages 게임 + Apps Script 점수 수신",
+  "scripts": {
+    "serve": "python -m http.server 8765"
+  }
+}
